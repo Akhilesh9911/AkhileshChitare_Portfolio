@@ -92,17 +92,8 @@ const ProjectsSection = () => {
                 {/* Action Buttons */}
                 <div className="flex gap-4 pt-4">
                   <Button 
-                    className="hero-button flex-1" 
-                    asChild
-                  >
-                    <a href={project.liveUrl} target="_blank" rel="noopener noreferrer">
-                      <ExternalLink className="w-4 h-4 mr-2" />
-                      <span className="relative z-10">Live Demo</span>
-                    </a>
-                  </Button>
-                  <Button 
                     variant="outline" 
-                    className="hover-card"
+                    className="hover-card w-full"
                     asChild
                   >
                     <a href={project.githubUrl} target="_blank" rel="noopener noreferrer">
