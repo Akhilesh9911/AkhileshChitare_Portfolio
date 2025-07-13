@@ -29,7 +29,6 @@ const NavigationHeader = () => {
     { id: 'skills', label: 'Skills', icon: Code },
     { id: 'projects', label: 'Projects', icon: Briefcase },
     { id: 'certifications', label: 'Certifications', icon: Award },
-    { id: 'github', label: 'GitHub', icon: Github },
   ];
 
   return (

@@ -5,7 +5,6 @@ import SkillsSection from '@/components/sections/SkillsSection';
 import ToolsSection from '@/components/sections/ToolsSection';
 import ProjectsSection from '@/components/sections/ProjectsSection';
 import CertificationsSection from '@/components/sections/CertificationsSection';
-import GitHubSection from '@/components/sections/GitHubSection';
 import ExtracurricularsSection from '@/components/sections/ExtracurricularsSection';
 import Footer from '@/components/sections/Footer';
 import NavigationHeader from '@/components/navigation/NavigationHeader';
@@ -34,8 +33,6 @@ const Index = () => {
         <ProjectsSection />
         <div className="section-divider" />
         <CertificationsSection />
-        <div className="section-divider" />
-        <GitHubSection />
         <div className="section-divider" />
         <ExtracurricularsSection />
       </main>
