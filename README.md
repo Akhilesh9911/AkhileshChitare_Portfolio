@@ -11,4 +11,4 @@ The website showcases my projects, skills, and professional background in a clea
 - Professional layout built with scalable and reusable components
 - Clean codebase following modern frontend development practices
 
-🔗 **Live Website:**resplendent-pixie-c672c2.netlify.app
+🔗 **Live Website:[**resplendent-pixie-c672c2.netlify.app](https://resplendent-pixie-c672c2.netlify.app/)
