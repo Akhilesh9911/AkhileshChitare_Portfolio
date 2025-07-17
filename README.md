@@ -11,4 +11,4 @@ The website showcases my projects, skills, and professional background in a clea
 - Professional layout built with scalable and reusable components
 - Clean codebase following modern frontend development practices
 
-🔗 **Live Website:** [https://lovable.dev/projects/50616d15-dd7c-441d-ac79-a00d54818ae2](https://lovable.dev/projects/50616d15-dd7c-441d-ac79-a00d54818ae2)
+🔗 **Live Website:** https://akhileshchitareportfolio.netlify.app/
